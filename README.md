@@ -1,8 +1,6 @@
 #Paytm Clone
 
-## [LIVE]("https://pushpa-faytm-tailwind.netlify.app")
-
-
+## [Live](https://pushpa-faytm-tailwind.netlify.app)
 
 # 16. Paytm
 Paytm
